@@ -1,11 +1,13 @@
 <h1>Find Card Game</h1>
 
-[👉click here to login Flamingo](https://ilkerkr.github.io/Find-Card-Game/)
+![Guess-Number-gif](./img/findcardgame.gif)
+
+[👉click here to login Find Card Game](https://ilkerkr.github.io/Find-Card-Game/)
 
 <h2>Project Skeleton</h2>
 
 ```
-Bootstrap-project (folder)
+Find Card Game (folder)
 |
 |----readme.md                  
 |----img (folder)             
